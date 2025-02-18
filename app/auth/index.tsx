@@ -41,7 +41,7 @@
               typing={1}
               minDelay={20}
             >
-              Neatify
+              Your App
             </Typewriter>
           )}
         </View>
